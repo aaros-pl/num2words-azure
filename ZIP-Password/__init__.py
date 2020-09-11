@@ -15,6 +15,7 @@ def main(req: func.HttpRequest) -> func.HttpResponse:
     # pdf1 = req.params.get('pdf1')
     # pdf2 = req.params.get('pdf2')
     # if not pdf1 and not pdf2:
+    # LOLOL
     try:
         req_body = req.get_json()
     except ValueError:
