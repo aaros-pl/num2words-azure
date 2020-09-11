@@ -1,0 +1,5 @@
+azure-functions
+PyPDF4==1.27.0
+num2words==0.5.10
+pdfrw
+py7zr
